@@ -17,7 +17,7 @@ Top MCP Servers:
 
 ### Codebases
 - [ ] AIC — https://github.com/Sanjay-Sunil/AIC (upstream: https://github.com/Chai-Coders/AIC)
-  - `frontend/`, `backend/`, `cms_gui/`
+  - `frontend/` (website), `cms_gui/` (CMS), `convex-backend/` (backend: see `convex-backend/README.md`)
 
 ### MCP Servers to Activate
 _None yet._
